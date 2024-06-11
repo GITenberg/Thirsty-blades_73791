@@ -1,0 +1,33 @@
+_repo: Thirsty-blades_73791
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Kline, Otis Adelbert
+    alias: Kline, Otis A.
+    birthdate: 1891
+    deathdate: 1946
+    gutenberg_agent_id: '51856'
+    url: http://www.gutenberg.org/2009/agents/51856
+    wikipedia: https://en.wikipedia.org/wiki/Otis_Adelbert_Kline
+  - agent_name: Price, E. Hoffman
+    gutenberg_agent_id: '57219'
+    url: http://www.gutenberg.org/2009/agents/57219
+description: ''
+gutenberg_issued: '2024-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73791'
+language: en
+pgterms:marc905: 20240326124118kline
+pgterms:marc906: '1930'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aIndianapolis, IN :$bPopular Fiction Publishing Company, $c1930.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Thirsty blades
+url: http://www.gutenberg.org/ebooks/73791
