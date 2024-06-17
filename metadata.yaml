@@ -1,5 +1,8 @@
 _repo: Thirsty-blades_73791
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73791-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Kline, Otis Adelbert
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '57219'
     url: http://www.gutenberg.org/2009/agents/57219
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73791#Thirsty-blades
 gutenberg_issued: '2024-06-07'
 gutenberg_type: Text
 identifiers:
